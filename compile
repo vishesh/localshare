@@ -1,0 +1,3 @@
+javac -cp build/ -d build/ src/vy/Handler.java
+javac -cp build/ -d build/ src/vy/Server.java
+javac -cp build/ -d build/ src/vy/LocalShare.java

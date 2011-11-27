@@ -1,0 +1,1 @@
+java -classpath build/ vy.utils.localshare.LocalShare 8080 .

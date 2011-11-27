@@ -1,0 +1,1 @@
+jar cvfm localshare.jar ../manifest vy/*

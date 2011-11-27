@@ -1,0 +1,25 @@
+
+local-share
+-----------
+
+A simple HTTP Server to serve files in given directory. If you have Python
+installed "python -m SimpleHTTPServer" would do the same. However in many
+cases you dont have Python installed but definitely Java, where this might help.
+eg. My College. They dont have Python installed, and very often I need something
+like this.
+
+This is very basic untested, no-robust implementation.
+
+License
+-------
+
+Public Domain. Do whatever you like to with it. No one is stopping
+you.
+
+Disclaimera (very obvious)
+--------------------------
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
